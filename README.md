@@ -1,5 +1,5 @@
-# wally
-A game of life and death
+# Wally
+A game of life and death.
 
 Compile wally.c on your terminal:
 
