@@ -1,5 +1,5 @@
 # Wally
-A game of life and death.
+A game of life and death.\n
 .
 .
 .
